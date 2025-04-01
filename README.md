@@ -186,6 +186,6 @@ Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/shanerwilson/code-nine
 
 ```
 
-https://github.com/TrevinoParker7/Powershell-test-payload-harmless/blob/main/phishingFakeSoftwareUpdate.ps1
+https://github.com/shanerwilson/code-nine/blob/main/Cybersecurity%20test%20scripts/phishingFakeSoftwareUpdate.ps1
 
 ---
